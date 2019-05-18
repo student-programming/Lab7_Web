@@ -1,0 +1,22 @@
+body {     
+	padding: 0 20px;     
+	font-size: 16px;     
+	font-family: "Consolas", sans-serif; 
+} 
+ 
+h1 {     
+	color: #618ad2;     
+	text-shadow: 2px 2px 0 #cccccc; 
+}
+
+.red {     
+	color: red; 
+}
+
+.s20 {     
+	font-size: 20px; 
+} 
+ 
+.other-font {     
+	font-family: "Times"; 
+}
